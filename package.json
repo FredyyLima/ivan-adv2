@@ -1,0 +1,26 @@
+{
+  "name": "ivan-adv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FredyyLima/ivan-adv2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FredyyLima/ivan-adv2/issues"
+  },
+  "homepage": "https://github.com/FredyyLima/ivan-adv2#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "node": "^17.7.2"
+  }
+}
